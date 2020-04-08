@@ -10,3 +10,4 @@ logs/
 node_modules/
 out/
 Generated.xcconfig
+*.vsix

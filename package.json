@@ -3,7 +3,7 @@
     "displayName": "Claat Snippets",
     "description": "Making writing CLAAT markdown fun and easy since 2020.",
     "version": "1.0.0",
-    "publisher": "Steven Gray",
+    "publisher": "sjg-ce",
     "repository": {
         "type": "git",
         "url": "https://github.com/ucl-casa-ce/claat-snippets-vscode"
