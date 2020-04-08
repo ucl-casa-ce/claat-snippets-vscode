@@ -1,0 +1,12 @@
+.DS_Store
+.packages
+.test_results/
+.vscode-test/
+.vscode/.browse.VC.db*
+*.log
+build/
+coverage/
+logs/
+node_modules/
+out/
+Generated.xcconfig

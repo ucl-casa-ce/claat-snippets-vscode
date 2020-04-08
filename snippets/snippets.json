@@ -57,6 +57,21 @@
         ],
         "description": "Create an Example Codelab Step"
       },
+      "Create an Part List": {
+        "prefix": "!claat-create-part-list",
+        "body": [
+          "<!-- ------------------------ -->",
+          "",
+          "## Parts List",
+          "To complete this workshop, you will need:",
+          "- ${1:Part 1}",
+          "- ${2:Part 2}",
+          "- ${3:3 x Part 3}",
+          "- ${4:Part 4}",
+          "- ${5:1 x Part 5}"
+        ],
+        "description": "Create an Part List"
+      },
       "InfoBox": {
         "prefix": "!claat-infobox",
         "body": [
