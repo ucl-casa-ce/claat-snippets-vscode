@@ -1,0 +1,89 @@
+{
+    "Create Codelab Header": {
+        "prefix": "!claat-header",
+        "body": [
+          "summary: ${1:Summary}",
+          "id: ${2:ID}",
+          "categories: ${3:Categories}",
+          "tags: ${4:Tag 1},${5:Tag 2}",
+          "status: Published",
+          "authors: ${6:author}",
+          "Feedback Link: https://www.github.com/ucl-casa-ce/${7:Workshop Repoistory}",
+          "",
+          "# ${8:Codelab Title}",
+          ""
+        ],
+        "description": "Creates a Codelab Header"
+      },
+      "Create Empty Codelab Step ": {
+        "prefix": "!claat-create-empty-step",
+        "body": [
+          "<!-- ------------------------ -->",
+          "## ${1:First Step} ",
+          "Duration: ${2:hh}:${3:mm}:${4:ss}",
+          "",
+          "### ${5:Heading} "
+        ],
+        "description": "Create an Empty Codelab Step"
+      },
+      "Create Codelab Step": {
+        "prefix": "!claat-create-example-step",
+        "body": [
+          "<!-- ------------------------ -->",
+          "## ${1:Heading} ",
+          "Duration: ${2:hh}:${3:mm}:${4:ss}",
+          "",
+          "### List of Learnings ",
+          "- how to set the amount of time each slide will take to finish ",
+          "- how to include code snippets ",
+          "- how to hyperlink items ",
+          "- how to include images ",
+          "- other stuff",
+          "",
+          "### JavaScript",
+          "",
+          "```javascript",
+          "{ ",
+          "  key1: \"string\", ",
+          "  key2: integer,",
+          "  key3: \"string\"",
+          "}",
+          "```",
+          "### Hyperlinking",
+          "[Youtube - Music Playlist](https://www.youtube.com/watch?v=VNMms_zGbnI)",
+          "",
+          "### Images",
+          "![alt-text-here](assets/puppy.jpg)"
+        ],
+        "description": "Create an Example Codelab Step"
+      },
+      "InfoBox": {
+        "prefix": "!claat-infobox",
+        "body": [
+            "Positive",
+            ": ${1:This will appear in a positive info box.}",
+            "",
+            ""
+        ],
+        "description": "Add a positive style info box"
+      },
+      "InfoBox-Negative": {
+        "prefix": "!claat-infobox-negative",
+        "body": [
+            "Negative",
+            ": ${1:This will appear in a negative info box.}",
+            "",
+            ""
+        ],
+        "description": "Add a negative style info box"
+      },
+      "Download Button": {
+        "prefix": "!claat-download-button",
+        "body": [
+            "[Download ${1:Button Item}](${2: https://www.sjg.dev})",
+            "",
+            ""
+        ],
+        "description": "Add a download link"
+      }
+}
