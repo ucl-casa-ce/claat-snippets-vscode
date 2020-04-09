@@ -22,7 +22,7 @@ Type part of a snippet, starting with `!claat`, press `enter` and the snippet wi
 | Snippet | Content |
 | ------- | ------- |
 | `!claat-header` | Creates a Codelab Header |
-| `!claat-create-empty_step` | Create an Empty Codelab Step |
+| `!claat-create-empty-step` | Create an Empty Codelab Step |
 | `!claat-create-example-step` | Create an Example Codelab Step |
 | `!claat-create-parts-list` | Create a Parts List |
 | `!claat-infobox` | Add a positive style info box |

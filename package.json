@@ -1,7 +1,7 @@
 {
     "name": "claat-snippets-vscode",
     "displayName": "Claat Snippets",
-    "description": "Making writing CLAAT (Google's CodeLab As A Thing) markdown files fun and easy since 2020. ",
+    "description": "Making writing CLAAT (Google's CodeLab As A Thing) markdown files fun and easy since 2020.",
     "version": "1.0.2",
     "publisher": "sjg-ce",
     "license": "SEE LICENSE IN LICENSE",
