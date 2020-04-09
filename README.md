@@ -1,8 +1,8 @@
 # Introduction
 
-A collection of snippets for [CLAAT (CodeLab As A Thing)](https://github.com/googlecodelabs/tools) which support the work at [UCL Connected Environments](https://www.connected-environments.org).
+A collection of snippets for [CLAAT (CodeLab As A Thing)](https://github.com/googlecodelabs/tools) which supports the learning and teaching within [UCL Connected Environments Lab](https://www.connected-environments.org).
 
-![Overview Preview](https://github.com/ucl-casa-ce/claat-snippets-vscode/blob/master/img/overview.gif)
+![Overview Preview](https://github.com/ucl-casa-ce/claat-snippets-vscode/raw/master/img/overview.gif)
 
 # Installation
 
